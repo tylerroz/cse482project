@@ -1,0 +1,6 @@
+ante
+below_q1_scoring_average cons
+above_q3_top10_finished cons
+above_q3_points_earned cons
+above_q3_1st_place_finishes cons
+above_q3_money_earned head

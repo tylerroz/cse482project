@@ -1,0 +1,7 @@
+both
+below_q1_1st_place_finishes ign
+below_q1_top10_finished ign
+below_q1_fairway_percentage ign
+below_q1_strokesgained_scrambling ign
+below_q1_strokesgained_putting ign
+below_q1_strokesgained_total ign
