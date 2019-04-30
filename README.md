@@ -13,6 +13,6 @@ The files in the directory are as follows:
 - final_report_rozwado7.pdf: My final report
 - golf_data_analysis.ipynb: All code that was used for the project (scraping, cleaning, discretizing, running Apriori)
 - All other files have either been produced or are used by the Jupyter Notebook
-- misc.: oOther files that are not important to the project, but may have still been used
+- misc.: Other files that are not important to the project, but may have still been used
 
 Completed in 2019 by Tyler Rozwadowski
